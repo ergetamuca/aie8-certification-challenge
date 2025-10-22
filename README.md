@@ -3,9 +3,11 @@
 AI-powered lesson plan generator for educators.
 
 ## Relevant Links
-Loom Video: https://www.loom.com/share/4e2cc0a4d6eb4d4fb6780a4be1dede73?sid=abf68556-d4f2-4b66-bddb-4420da9d6d1f 
-Final Report: https://github.com/ergetamuca/aie8-certification-challenge/blob/main/Certification%20Challenge%20Report.pdf
-System Diagram: https://github.com/ergetamuca/aie8-certification-challenge/blob/main/System%20Diagram 
+- Loom Video: https://www.loom.com/share/4e2cc0a4d6eb4d4fb6780a4be1dede73?sid=abf68556-d4f2-4b66-bddb-4420da9d6d1f 
+
+- Final Report: https://github.com/ergetamuca/aie8-certification-challenge/blob/main/Certification%20Challenge%20Report.pdf
+
+- System Diagram: https://github.com/ergetamuca/aie8-certification-challenge/blob/main/System%20Diagram 
 
 ## Quick Start
 
