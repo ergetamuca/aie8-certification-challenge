@@ -1,0 +1,12 @@
+# backend/requirements.txt - Updated for Python 3.11+
+langchain==0.2.16
+langchain-openai==0.1.23
+langchain-community==0.2.16
+langchain-text-splitters==0.2.4
+langchain-core==0.2.43
+qdrant-client==1.7.0
+openai>=1.40.0
+python-dotenv==1.0.0
+requests>=2.32.3
+aiohttp>=3.9.1
+ragas==0.1.21
